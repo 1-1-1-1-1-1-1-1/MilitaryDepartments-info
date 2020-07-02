@@ -1,11 +1,22 @@
 # Pre-words
+<a id="pre"></a>
 
-[TOC]
+<p> Some information about military departments of Kharkiv at year 2020. This info's collecting started approximately @ June 30, 2020. Warning: some info here may be not full, not strict or partially incorrect because of the fact that it was collected by a common person.
+<p> Некоторые документы по теме были расположены в соседней папке, там же исходник этого файла и аналогичного ему HTML-файла.
+<p> Также тут на Github.com, видимо, не работают сноски в MD-файле. В HTML-файле они работают. 
+<!-- [TOC] -->
+
+* [Предисловие](#pre)
+    * [Задания составления файла](#tasks)
+    * [Другое](#other)
+* [Результат](#result)
+    * [Примечания](#notes)
+* [Сноски](#footnotes)
 
 ## Задания составления файла
 <a id="tasks"></a>
 
-* [ ] <u>**Составить таблицу данных**</u>. Этапы завершения этого:
+* [ ] <u>**Составить таблицу данных.**</u> Этапы завершения этого:
   + [x] Составить список всех доступных сайтов по теме, найденных в интернете:
       + [x] ХУПС ім. Івана Кожедуба
       + [x] НТУ "ХПІ"
@@ -23,6 +34,7 @@
 * [ ] Завершить составление файла и представить его в удобно читаемом виде.
 
 ## Other
+<a id="other"></a>
 
 Some tests are hidden in the read document.
 
@@ -48,6 +60,7 @@ Footnote[^intable] | InCol2[^intable2]
 -->
 
 # Результат
+<a id="result"></a>
 
 **WARNING:**
 > Этот сбор информации составлен обычным человеком, потому, вероятно, тут может быть что-то упущено.
@@ -67,6 +80,7 @@ Footnote[^intable] | InCol2[^intable2]
 НЮУ | ??? ||| [1](https://nlu.edu.ua/ru/інститути-факультети/військово-юридичний-факультет-№6/), [2](http://pli.nlu.edu.ua/?p=3156), [кафедры][departments_nlu]
 
 ## Примечания
+<a id="notes"></a>
 
 <!-- Кафедры:
 ХУПС:
@@ -148,4 +162,5 @@ https://nuczu.edu.ua/rus/kafedra-viiskovoi-pidhotovky-oholoshuye-nabir-u-2019-ro
 https://nuczu.edu.ua/rus/kafedra-viiskovoi-pidhotovky-oholoshuye-nabir-u-2019-rotsi
 -->
 
-# Сноски
+# Сноски <!-- Нужны ли тут сноски? -->
+<a id="footnotes"></a>
